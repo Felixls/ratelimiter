@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/jpg013/ratelimiter"
+	"github.com/felixls/ratelimiter"
 )
 
 func main() {
